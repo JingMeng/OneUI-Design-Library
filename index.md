@@ -1,4 +1,4 @@
-## Documentation
+## OneUI Library Documentation
 In general, most of the views are styled automatically when you apply ```android:theme="@style/OneUITheme"``` in AndroidManifest.xml, the usage of the custom views in the library however is needed to achieve the best results.
 
 - [DrawerLayout](#DrawerLayout)
